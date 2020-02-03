@@ -1,0 +1,2 @@
+MMBEBHE always picks the most picks the BBHE transformation with the least Absolute Mean Brightness Error , i.e | E(x) - E(Y) | , from the results in the Final_results.pdf file we can clearly see that MMBEBHE provides a better contrast enahncement by preserving the brightness the most as the AMBE is lowest .
+Clearly MMBEBHE performs better than BBHE and HE when the images require high degree of brightness preservation , like bright and dark images .
